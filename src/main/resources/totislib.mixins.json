@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.totis.totislib.mixins",
+  "minVersion": "0.8.5",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "totislib.mixins.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [
+
+  ]
+}
