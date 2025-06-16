@@ -1,4 +1,4 @@
-package com.totis.totislib.mixins;
+package com.totis.totislib;
 
 @SuppressWarnings("all")
 public class TotisLibAPI {
